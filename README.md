@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Development, Power Supply**
 
-- 📫 How to reach me **anjumferdous.gub.eee.191@gmail.com**
+- 📫 How to reach me **anjumferdous110@gmail.com**
 
 - ⚡ Fun fact **I can fix my code – but not my coffee addiction!**
 
@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:anjumferdous.gub.eee.191@gmail.com">
+  <a href="mailto:anjumferdous110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/anjum-ferdous-366515198/" target="_blank">
@@ -32,8 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Javascript,html,css,tailwind"
-    <img src="https://skillicons.dev/icons?i=,git,github,vscode"
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,git,github,vscode"
 </div>
 
 <br/>
@@ -41,8 +40,8 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyaib10&show_icons=true&locale=en&layout=compact" alt="soyaib10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferdous110&show_icons=true&locale=en&layout=compact" alt="Ferdous110" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyaib10&show_icons=true&locale=en" alt="soyaib10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferdous110&show_icons=true&locale=en" alt="Ferdous110" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyaib10&" alt="soyaib10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferdous110&" alt="Ferdous110" /></p>
